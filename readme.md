@@ -1,5 +1,4 @@
 # Gitbook Bootstrap Grid Plugin
----
 
 Enable using Bootstrap Grid in your books
 
