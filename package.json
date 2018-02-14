@@ -1,10 +1,10 @@
 {
   "name": "gitbook-plugin-bootstrap-grid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "use Bootstrap grip in gitbook",
   "main": "index.js",
   "engines": {
-    "gitbook": ">=3.2.3"
+    "gitbook": ">=1.x.x"
   },
   "author": "wadehuang36",
   "license": "MIT",
